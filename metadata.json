@@ -1,0 +1,6 @@
+{
+  "name": "Ian Rafael Portfolio",
+  "description": "A meditative, celestial 3D orbiting image portfolio showcase with fluid drag rotation and hover billboarding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
